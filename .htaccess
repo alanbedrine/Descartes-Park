@@ -1,0 +1,5 @@
+AddDefaultCharset UTF-8
+SetEnv TZ Europe/Paris 
+ErrorDocument 404 http://172.17.228.73/erreur.php?erreur=404
+ErrorDocument 500 http://172.17.228.73/erreur.php?erreur=500
+ErrorDocument 504 http://172.17.228.73/erreur.php?erreur=504

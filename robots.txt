@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /includes/
+Disallow: /erreur/
+Disallow: /SQL/
+Sitemap: /sitemap_index.xml
